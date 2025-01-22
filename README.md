@@ -1,6 +1,6 @@
 # Exploratory-DSP-Workshops
 
-This repository contains instructions and supporting files for four workshops exploring theory and applications of digital signal processing (DSP).
+This repository contains instructions and supporting files for four workshops exploring theory and applications of digital signal processing (DSP). For some of these workshops you will need the [ST Edition of AWE Designer](https://audioinnovation.dspconcepts.com/audio-weaver-st-edition-downloads) and a DSP Concepts ST Edition account.
 
 ## FFT and STFT for classification of spoken digits
 
