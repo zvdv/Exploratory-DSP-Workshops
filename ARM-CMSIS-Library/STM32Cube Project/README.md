@@ -1,0 +1,1 @@
+The `cmsis_dsp` folder should be copied into your STM32CubeIDE workspace.
