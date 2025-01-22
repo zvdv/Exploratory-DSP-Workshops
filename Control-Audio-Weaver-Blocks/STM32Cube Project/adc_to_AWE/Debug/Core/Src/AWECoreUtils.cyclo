@@ -1,0 +1,8 @@
+../Core/Src/AWECoreUtils.c:52:6:tuningResetByteEncoderUART	1
+../Core/Src/AWECoreUtils.c:74:7:tuningEncodeByteUART	12
+../Core/Src/AWECoreUtils.c:135:7:tuningDecodeByteUART	15
+../Core/Src/AWECoreUtils.c:281:6:ComputeCheckSumPublic	2
+../Core/Src/AWECoreUtils.c:299:6:GenerateInstanceTableReply	1
+../Core/Src/AWECoreUtils.c:308:7:float_to_fract32	4
+../Core/Src/AWECoreUtils.c:332:9:fract32_to_float	1
+../Core/Src/AWECoreUtils.c:339:7:awe_getNextAWBCmd	2

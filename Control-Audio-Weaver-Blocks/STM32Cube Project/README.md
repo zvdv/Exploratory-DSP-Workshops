@@ -1,0 +1,1 @@
+The `adc_to_AWE` folder should be copied into your STM32CubeIDE workspace.

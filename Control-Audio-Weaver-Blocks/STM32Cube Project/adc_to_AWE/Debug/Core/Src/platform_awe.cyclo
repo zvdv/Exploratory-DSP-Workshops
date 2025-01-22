@@ -1,0 +1,12 @@
+../Core/Src/platform_awe.c:69:6:AWEInstanceInit	4
+../Core/Src/platform_awe.c:155:6:InitCycleCounter	1
+../Core/Src/platform_awe.c:168:8:aweuser_getCycleCount	1
+../Core/Src/platform_awe.c:178:8:aweuser_getElapsedCycles	1
+../Core/Src/platform_awe.c:190:6:usrInitFlashFileSystem	1
+../Core/Src/platform_awe.c:208:6:usrReadFlashMemory	2
+../Core/Src/platform_awe.c:229:6:usrWriteFlashMemory	5
+../Core/Src/platform_awe.c:277:6:usrEraseFlashMemorySector	8
+../Core/Src/platform_awe.c:339:6:awe_pltGPIOSetPinDir	6
+../Core/Src/platform_awe.c:387:6:awe_pltGPIOTogglePin	3
+../Core/Src/platform_awe.c:407:6:awe_pltGPIOSetPin	4
+../Core/Src/platform_awe.c:434:6:awe_pltGPIOGetPin	3
