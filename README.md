@@ -1,5 +1,7 @@
 # Exploratory-DSP-Workshops
 
+This repository contains instructions and supporting files for four workshops exploring theory and applications of digital signal processing (DSP).
+
 ## FFT and STFT for classification of spoken digits
 
 The Fast Fourier Transform (FFT) is an essential engineering tool. In this workshop we will review the interpretation of the FFT and its extension to the short-time Fourier transform (STFT). Using python, you will present STFT audio features as input to a neural network  to recognize spoken digits, and test the network on your own speech. No previous knowledge of FFTs or python needed.
